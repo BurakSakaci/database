@@ -1,0 +1,1 @@
+select 1 from deneme where id =8;
