@@ -1,0 +1,1 @@
+INSERT INTO deneme(id, name) VALUES (12, 'deneme github repo');
